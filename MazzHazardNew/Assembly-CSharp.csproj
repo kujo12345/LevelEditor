@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Behaviour Scripts\Hero Behaviours\Range\HeroRangeTower.cs" />
-    <Compile Include="Assets\TestScripts\TileConnectionChecker.cs" />
     <Compile Include="Assets\Scripts\Behaviour Scripts\Hero Behaviours\Rotation.cs" />
     <Compile Include="Assets\Scripts\UI Scripts\Main UI\LoadGameFile.cs" />
     <Compile Include="Assets\Scripts\LevelProgress Scripts\StageComplete.cs" />
@@ -71,7 +70,6 @@
     <Compile Include="Assets\Scripts\Behaviour Scripts\Hero Behaviours\HeroDetect.cs" />
     <Compile Include="Assets\Scripts\Pathing Scripts\Pathing.cs" />
     <Compile Include="Assets\Scripts\Interfaces\IKillable.cs" />
-    <Compile Include="Assets\TestScripts\NavMeshBuilder.cs" />
     <Compile Include="Assets\Scripts\Behaviour Scripts\Enemy Behaviours\EnemyRange.cs" />
     <Compile Include="Assets\Scripts\Pathing Scripts\GoalTrigger.cs" />
     <Compile Include="Assets\GridGenerator.cs" />
